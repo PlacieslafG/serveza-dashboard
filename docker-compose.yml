@@ -1,0 +1,11 @@
+services:
+  serveza:
+    build: .
+    container_name: serveza
+    ports:
+      - "8123:8123"
+  volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - ./serveza.yaml:/app/serveza.yaml:ro
+
+  restart: unless-stopped
