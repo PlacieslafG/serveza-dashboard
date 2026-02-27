@@ -8,8 +8,6 @@ Are you tired of opening Portainer, Uptime Kuma, and a terminal just to check if
 
 Serveza is a lightweight, single-page dashboard that brings the most critical health checks into one place. No databases. No cloud accounts. Configured entirely via a single YAML file.
 
-![Serveza Dashboard](screenshot.png)
-
 ---
 
 ## ✨ Features
