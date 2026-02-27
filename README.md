@@ -154,4 +154,4 @@ services:
 
 Thank you for purchasing Serveza! This is a one-time purchase — you get lifetime access to the code and can modify it freely for personal use.
 
-If you encounter critical bugs or have feature requests, feel free to reach out via the email provided on your Gumroad receipt.
+If you encounter critical bugs or have feature requests, feel free to reach out via the email provided on your Lemon Squeezy receipt.
